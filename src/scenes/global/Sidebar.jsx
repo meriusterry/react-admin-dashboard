@@ -110,7 +110,7 @@ const Sidebar = () => {
                   Miss Mabunda
                 </Typography>
                 <Typography variant="h5" color={colors.greenAccent[500]}>
-                  Admin
+                  Role(Admin/User/Manager)
                 </Typography>
               </Box>
             </Box>
