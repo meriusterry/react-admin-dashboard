@@ -71,6 +71,7 @@ const Team = () => {
   return (
     <Box m="20px">
       <Header title="USERS" subtitle="Managing the Users" />
+      <Header  title="Add a search bar by name" />
       <Box
         m="40px 0 0 0"
         height="75vh"
