@@ -55,7 +55,7 @@ const Dashboard = () => {
           justifyContent="center"
         >
           <StatBox
-            title="2211 Troy Street"
+            title="2228 Troy Street"
             subtitle="Most Used Route"
            
             icon={
@@ -74,7 +74,7 @@ const Dashboard = () => {
         >
           <StatBox
            
-            title="Tsakani Mabunda"
+            title="Terry Ntuli"
             subtitle="Most App User"
            
             icon={
@@ -110,7 +110,7 @@ const Dashboard = () => {
           justifyContent="center"
         >
           <StatBox
-            title="2219 Mabnda Street"
+            title="1178 Mabnda Street"
             subtitle="Least Used Route"
             
             icon={
