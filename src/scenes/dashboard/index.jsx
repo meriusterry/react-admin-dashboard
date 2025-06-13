@@ -147,7 +147,7 @@ const Dashboard = () => {
                 fontWeight="bold"
                 color={colors.greenAccent[500]}
               >
-                $59,342.32
+                R59,342.32
               </Typography>
             </Box>
             <Box>
@@ -207,7 +207,7 @@ const Dashboard = () => {
                 p="5px 10px"
                 borderRadius="4px"
               >
-                ${transaction.cost}
+                R{transaction.cost}
               </Box>
             </Box>
           ))}
